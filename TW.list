@@ -16,6 +16,8 @@ IP-CIDR,60.250.121.217/32,no-resolve
 IP-CIDR,59.124.81.19/32,no-resolve
 IP-CIDR,220.134.196.147/32,no-resolve
 IP-CIDR,61.63.19.241/32,no-resolve
+IP-CIDR,60.249.93.7/32,no-resolve
+IP-CIDR,218.32.47.176/32,no-resolve
 DOMAIN,weblivea-hamivideo.cdn.hinet.net
 DOMAIN,mobileevent-hamivideo.cdn.hinet.net
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
