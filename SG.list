@@ -28,6 +28,6 @@ DOMAIN,pop5clustera00de07172379a62d6189.hypp.tv
 #DOMAIN-KEYWORD,iptv12k
 #DOMAIN-SUFFIX,ktpremium.store
 #DOMAIN-KEYWORD,ktpremium
-DOMAIN-KEYWORD,starhubgo
-DOMAIN-SUFFIX,starhubgo.com
+#DOMAIN-KEYWORD,starhubgo
+#DOMAIN-SUFFIX,starhubgo.com
 DOMAIN,ucdn.starhubgo.com
