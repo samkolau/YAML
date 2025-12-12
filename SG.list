@@ -1,11 +1,6 @@
 #新马节点的直播
 DOMAIN-SUFFIX,astro.com.my
 DOMAIN-KEYWORD,astro
-DOMAIN,channel.singteltvgo.com
-DOMAIN-KEYWORD,singteltvgo
-DOMAIN-SUFFIX,singtel.com
-DOMAIN-KEYWORD,singtel
-DOMAIN-SUFFIX,vod.singtelcast.com
 DOMAIN-SUFFIX,sooka.my
 DOMAIN-KEYWORD,sooka
 DOMAIN-SUFFIX,tsv2.amagi.tv
@@ -26,6 +21,3 @@ DOMAIN-KEYWORD,izzigo
 DOMAIN,pop5clustera00de07172379a62d6189.hypp.tv
 #DOMAIN-SUFFIX,ktpremium.store
 #DOMAIN-KEYWORD,ktpremium
-#DOMAIN-KEYWORD,starhubgo
-#DOMAIN-SUFFIX,starhubgo.com
-DOMAIN,ucdn.starhubgo.com
