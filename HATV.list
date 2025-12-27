@@ -1,2 +1,4 @@
 DOMAIN,bob2.hkt.net.cn
 DOMAIN,zzqwe.giize.com
+IP-CIDR,58.99.33.0/24,no-resolve
+DOMAIN-SUFFIX,topmso.com.tw
