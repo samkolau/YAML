@@ -1,13 +1,6 @@
 #台湾节点直播源
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-KEYWORD,tvcastlive-hamivideo
-DOMAIN-KEYWORD,mobileevent-hamivideo
-DOMAIN-SUFFIX,tvcastlive-hamivideo.cdn.hinet.net
-DOMAIN-SUFFIX,mobileevent-hamivideo.cdn.hinet.net
-DOMAIN-KEYWORD,4gtv
-DOMAIN-KEYWORD,yeslivetv
-DOMAIN-KEYWORD,ofiii
 DOMAIN-KEYWORD,litv
 DOMAIN-KEYWORD,hinet
 IP-CIDR,60.250.121.96/28,no-resolve
@@ -18,13 +11,6 @@ IP-CIDR,220.134.196.147/32,no-resolve
 IP-CIDR,61.63.19.241/32,no-resolve
 IP-CIDR,60.249.93.7/32,no-resolve
 IP-CIDR,218.32.47.176/32,no-resolve
-DOMAIN,weblivea-hamivideo.cdn.hinet.net
-DOMAIN,mobileevent-hamivideo.cdn.hinet.net
-DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
-DOMAIN,ntdofifreepc.akamaized.net
-DOMAIN,ntdofifreepocpc.akamaized.net
-DOMAIN,ofissaifreepc.akamaized.net
 DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
-DOMAIN,ntdofifreevcpc.akamaized.net
 DOMAIN,live.iill.top
 DOMAIN-SUFFIX,catchplay.com
