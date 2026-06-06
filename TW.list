@@ -1,7 +1,6 @@
 #台湾节点直播源
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-KEYWORD,hinet
 IP-CIDR,60.250.121.96/28,no-resolve
 IP-CIDR,60.250.121.217/32,no-resolve
 IP-CIDR,59.124.81.19/32,no-resolve
