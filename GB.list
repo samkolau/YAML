@@ -1,3 +1,8 @@
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+DOMAIN,vs-cmaf-pushb-uk-live.akamaized.net
+DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+DOMAIN,ve-cmaf-push-uk-live.akamaized.net
+DOMAIN,ve-uhd-push-uk-live.akamaized.net
