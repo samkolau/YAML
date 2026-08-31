@@ -1,2 +1,5 @@
 DOMAIN,chilap.asuscomm.com
 DOMAIN,dg8006.runqidasoftware.top
+IP-CIDR,119.67.26.130/32,no-resolve
+IP-CIDR,116.123.56.141/32,no-resolve
+IP-CIDR,180.231.37.7/32,no-resolve
